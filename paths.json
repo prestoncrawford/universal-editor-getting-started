@@ -1,6 +1,8 @@
 {
   "mappings": [
-    "/content/universal-editor-getting-started/:/"
+    "/content/universal-editor-getting-started/:/",
+    "/content/universal-editor-getting-started/configuration/.helix/config.json",
+    "/content/universal-editor-getting-started/metadata:/metadata.json"
   ],
   "includes": [
     "/content/universal-editor-getting-started/"
